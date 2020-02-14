@@ -1,0 +1,5 @@
+db
+tb_data : stock
+
+
+=$row['stock_beginning']+$row['stock_in']-$row['stock_out'];
